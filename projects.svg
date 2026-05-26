@@ -1,0 +1,87 @@
+<svg width="100%" viewBox="0 0 680 820" role="img"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>Featured Projects</title>
+    <desc>BoniFit and Personal Portfolio project cards</desc>
+
+    <!-- Background -->
+    <rect width="680" height="820" rx="12" fill="#0d1117"/>
+
+    <!-- Title -->
+    <text x="340" y="40" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="18" font-weight="700">🚀 Featured Projects</text>
+
+    <!-- BONIFIT CARD -->
+    <rect x="16" y="60" width="648" height="380" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+    <text x="46" y="100" font-family="monospace" font-size="20">🔥</text>
+    <text x="76" y="100" fill="#e6edf3" font-family="monospace" font-size="16" font-weight="600">BoniFit</text>
+    <rect x="148" y="84" width="32" height="18" rx="9" fill="#F85D3B"/>
+    <text x="164" y="97" text-anchor="middle" fill="white" font-family="monospace" font-size="10" font-weight="600">TFG</text>
+    <line x1="32" y1="110" x2="648" y2="110" stroke="#21262d" stroke-width="1"/>
+    <text x="32" y="130" fill="#8b949e" font-family="monospace" font-size="12">Fullstack fitness mobile app built as final project. React Native frontend</text>
+    <text x="32" y="148" fill="#8b949e" font-family="monospace" font-size="12">with JWT auth, AI chatbot (Groq API) and APK generation via EAS Build.</text>
+    <text x="32" y="166" fill="#8b949e" font-family="monospace" font-size="12">Node.js + Express backend on Render with MySQL (Aiven) and Cloudinary.</text>
+
+    <!-- BoniFit badges row 1 -->
+    <rect x="32" y="180" width="100" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="82" y="194" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">React Native</text>
+    <rect x="140" y="180" width="44" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="162" y="194" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">Expo</text>
+    <rect x="192" y="180" width="84" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="234" y="194" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">TypeScript</text>
+    <rect x="284" y="180" width="64" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="316" y="194" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Node.js</text>
+    <rect x="356" y="180" width="76" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="394" y="194" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Express.js</text>
+
+    <!-- BoniFit badges row 2 -->
+    <rect x="32" y="208" width="36" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="50" y="222" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">JWT</text>
+    <rect x="76" y="208" width="56" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="104" y="222" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">BCrypt</text>
+    <rect x="140" y="208" width="52" height="20" rx="10" fill="#110a1a" stroke="#A855F7" stroke-width="1"/>
+    <text x="166" y="222" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="11">MySQL</text>
+    <rect x="200" y="208" width="60" height="20" rx="10" fill="#110a1a" stroke="#A855F7" stroke-width="1"/>
+    <text x="230" y="222" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="11">Groq AI</text>
+    <rect x="268" y="208" width="76" height="20" rx="10" fill="#110a1a" stroke="#A855F7" stroke-width="1"/>
+    <text x="306" y="222" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="11">Cloudinary</text>
+    <rect x="352" y="208" width="52" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="378" y="222" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Render</text>
+    <rect x="412" y="208" width="44" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="434" y="222" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Aiven</text>
+    <rect x="464" y="208" width="68" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="498" y="222" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">EAS Build</text>
+
+    <!-- BoniFit GitHub button -->
+    <rect x="32" y="240" width="80" height="28" rx="6" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="72" y="259" text-anchor="middle" fill="#e6edf3" font-family="monospace" font-size="12" font-weight="600">⌥ GitHub</text>
+
+    <!-- PORTFOLIO CARD -->
+    <rect x="16" y="460" width="648" height="320" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+    <text x="46" y="500" font-family="monospace" font-size="20">🌐</text>
+    <text x="76" y="500" fill="#e6edf3" font-family="monospace" font-size="16" font-weight="600">Personal Portfolio</text>
+    <rect x="270" y="484" width="36" height="18" rx="9" fill="#27c93f"/>
+    <text x="288" y="497" text-anchor="middle" fill="white" font-family="monospace" font-size="10" font-weight="600">LIVE</text>
+    <line x1="32" y1="510" x2="648" y2="510" stroke="#21262d" stroke-width="1"/>
+    <text x="32" y="530" fill="#8b949e" font-family="monospace" font-size="12">Personal developer portfolio built with React, TypeScript, Vite,</text>
+    <text x="32" y="548" fill="#8b949e" font-family="monospace" font-size="12">Tailwind CSS and React Bits. Deployed on Vercel. Available in</text>
+    <text x="32" y="566" fill="#8b949e" font-family="monospace" font-size="12">Spanish and English with projects, experience and certifications.</text>
+
+    <!-- Portfolio badges -->
+    <rect x="32" y="580" width="52" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="58" y="594" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">React</text>
+    <rect x="92" y="580" width="84" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="134" y="594" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">TypeScript</text>
+    <rect x="184" y="580" width="36" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="202" y="594" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Vite</text>
+    <rect x="228" y="580" width="88" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="272" y="594" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Tailwind CSS</text>
+    <rect x="324" y="580" width="76" height="20" rx="10" fill="#110a1a" stroke="#A855F7" stroke-width="1"/>
+    <text x="362" y="594" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="11">React Bits</text>
+    <rect x="408" y="580" width="56" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="436" y="594" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Vercel</text>
+
+    <!-- Portfolio buttons -->
+    <rect x="32" y="616" width="80" height="28" rx="6" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="72" y="635" text-anchor="middle" fill="#e6edf3" font-family="monospace" font-size="12" font-weight="600">⌥ GitHub</text>
+    <rect x="120" y="616" width="88" height="28" rx="6" fill="#F85D3B" stroke="#F85D3B" stroke-width="1"/>
+    <text x="164" y="635" text-anchor="middle" fill="white" font-family="monospace" font-size="12" font-weight="600">↗ Live Demo</text>
+</svg>
