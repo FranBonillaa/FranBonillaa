@@ -20,7 +20,6 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
   
 ![Projects](projects.svg)
 
