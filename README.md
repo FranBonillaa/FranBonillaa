@@ -17,3 +17,10 @@
 [![My Skills](https://skillicons.dev/icons?i=neo4j,react,spring,postgres,express,aws,linux,figma,vite,vercel&perline=10)](https://skillicons.dev)
 
 </div>
+
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  
+![Projects](projects.svg)
+
+</div>
