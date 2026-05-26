@@ -10,3 +10,13 @@
 ![About Me](terminal.svg)
 
 </div>
+
+<!--TECH STACK-->
+<div align="center">
+  ### 🔧 Tools I Build With
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,java,python,kotlin,mysql,mongodb,docker,git&perline=10)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=neo4j,react,spring,postgres,express,aws,linux,figma,vite,vercel&perline=10)](https://skillicons.dev)
+
+</div>
