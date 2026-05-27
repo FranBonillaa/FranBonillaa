@@ -47,9 +47,9 @@
 
 <h2>📬 Let's Connect</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Bonilla-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-javier-bonilla-varo-08445625a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-franbonilla.dev-F85D3B?style=for-the-badge&logo=vercel)](https://franbonilla-dev.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-FranBonillaa-21262d?style=for-the-badge&logo=github)](https://github.com/FranBonillaa)
-[![Gmail](https://img.shields.io/badge/gmail-fbonillavaro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fbonillavaro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-javier-bonilla-varo-08445625a)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-F85D3B?style=for-the-badge&logo=vercel&logoColor=white)](https://franbonilla-dev.vercel.app)
+[![GitHub](https://img.shields.io/badge/-GitHub-21262d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FranBonillaa)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fbonillavaro@gmail.com)
 
 </div>
