@@ -23,4 +23,8 @@
   
 ![Projects](projects.svg)
 
+[![BoniFit GitHub](https://img.shields.io/badge/🔥_BoniFit-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/FranBonillaa/BoniFit)
+
+[![Portfolio GitHub](https://img.shields.io/badge/🌐_Portfolio-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/FranBonillaa/Personal-Portfolio) [![Portfolio Live](https://img.shields.io/badge/Portfolio-Live_Demo-F85D3B?style=for-the-badge&logo=vercel)](https://franbonilla-dev.vercel.app)
+
 </div>
