@@ -28,3 +28,12 @@
 [![Portfolio GitHub](https://img.shields.io/badge/🌐_Portfolio-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/FranBonillaa/Personal-Portfolio) [![Portfolio Live](https://img.shields.io/badge/Portfolio-Live_Demo-F85D3B?style=for-the-badge&logo=vercel)](https://franbonilla-dev.vercel.app)
 
 </div>
+
+<!--GITHUB STATS-->
+<div align="center">
+
+<h2>📊 GitHub Stats</h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranBonillaa&show_icons=true&theme=github_dark&title_color=F85D3B&icon_color=F85D3B&border_color=21262d&hide_border=false)
+
+</div>
