@@ -34,6 +34,6 @@
 
 <h2>📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranBonillaa&show_icons=true&theme=github_dark&title_color=F85D3B&icon_color=F85D3B&border_color=21262d&hide_border=false)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FranBonillaa&show_icons=true&theme=github_dark&title_color=F85D3B&icon_color=F85D3B&border_color=21262d)
 
 </div>
