@@ -37,14 +37,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FranBonillaa&show_icons=true&theme=github_dark&title_color=F85D3B&icon_color=F85D3B&border_color=21262d&hide_border=false" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FranBonillaa&show_icons=true&theme=github_dark&title_color=F85D3B&icon_color=F85D3B&border_color=21262d&hide_border=false&bg_color=0d1117" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FranBonillaa&layout=compact&theme=github_dark&title_color=F85D3B&border_color=21262d" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FranBonillaa&layout=compact&theme=github_dark&title_color=F85D3B&border_color=21262d&bg_color=0d1117" />
     </td>
   </tr>
 </table>
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranBonillaa&theme=github-dark-blue&ring=F85D3B&fire=F85D3B&currStreakLabel=F85D3B&border=21262d)
 
