@@ -71,28 +71,28 @@
     <text x="32" y="628" fill="#8b949e" font-family="monospace" font-size="12">real Google reviews, photo carousel, splash screen, scroll animations, responsive.</text>
     <rect x="32" y="646" width="86" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
     <text x="75" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">Angular 17</text>
-    <rect x="182" y="646" width="84" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
-    <text x="224" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">TypeScript</text>
-    <rect x="330" y="646" width="40" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
-    <text x="350" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">HTML</text>
-    <rect x="434" y="646" width="36" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
-    <text x="452" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">CSS</text>
-    <rect x="534" y="646" width="88" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
-    <text x="578" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">Tailwind CSS</text>
+    <rect x="126" y="646" width="84" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="168" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">TypeScript</text>
+    <rect x="218" y="646" width="40" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="238" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">HTML</text>
+    <rect x="266" y="646" width="36" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="284" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">CSS</text>
+    <rect x="310" y="646" width="88" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="354" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">Tailwind CSS</text>
     <rect x="32" y="674" width="40" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
     <text x="52" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">GSAP</text>
-    <rect x="144" y="674" width="70" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
-    <text x="179" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Swiper.js</text>
-    <rect x="286" y="674" width="64" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
-    <text x="318" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Node.js</text>
-    <rect x="422" y="674" width="60" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
-    <text x="452" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Express</text>
-    <rect x="554" y="674" width="66" height="20" rx="10" fill="#110a1a" stroke="#A855F7" stroke-width="1"/>
-    <text x="587" y="688" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="11">Supabase</text>
+    <rect x="80" y="674" width="70" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="115" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Swiper.js</text>
+    <rect x="158" y="674" width="64" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="190" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Node.js</text>
+    <rect x="230" y="674" width="60" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="260" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Express</text>
+    <rect x="298" y="674" width="66" height="20" rx="10" fill="#110a1a" stroke="#A855F7" stroke-width="1"/>
+    <text x="331" y="688" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="11">Supabase</text>
     <rect x="32" y="702" width="56" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
     <text x="60" y="716" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Vercel</text>
-    <rect x="118" y="702" width="52" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
-    <text x="144" y="716" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Render</text>
-    <rect x="200" y="702" width="76" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
-    <text x="238" y="716" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Namecheap</text>
+    <rect x="96" y="702" width="52" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="122" y="716" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Render</text>
+    <rect x="156" y="702" width="76" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="194" y="716" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Namecheap</text>
 </svg>
