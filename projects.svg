@@ -1,8 +1,8 @@
-<svg width="100%" viewBox="0 0 680 520" role="img"
+<svg width="100%" viewBox="0 0 680 770" role="img"
     xmlns="http://www.w3.org/2000/svg">
     <title>Featured Projects</title>
     <desc>BoniFit and Personal Portfolio project cards</desc>
-    <rect width="680" height="520" rx="12" fill="#0d1117"/>
+    <rect width="680" height="770" rx="12" fill="#0d1117"/>
     <text x="340" y="40" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="18" font-weight="700">🚀 Featured Projects</text>
     <rect x="16" y="60" width="648" height="250" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
     <text x="46" y="100" font-family="monospace" font-size="20">🔥</text>
@@ -60,4 +60,39 @@
     <text x="362" y="464" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="11">React Bits</text>
     <rect x="408" y="450" width="56" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
     <text x="436" y="464" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Vercel</text>
+    <rect x="16" y="522" width="648" height="230" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+    <text x="46" y="562" font-family="monospace" font-size="20">💅</text>
+    <text x="76" y="562" fill="#e6edf3" font-family="monospace" font-size="16" font-weight="600">María Fornet</text>
+    <rect x="196" y="546" width="36" height="18" rx="9" fill="#27c93f"/>
+    <text x="214" y="559" text-anchor="middle" fill="white" font-family="monospace" font-size="10" font-weight="600">LIVE</text>
+    <line x1="32" y1="572" x2="648" y2="572" stroke="#21262d" stroke-width="1"/>
+    <text x="32" y="592" fill="#8b949e" font-family="monospace" font-size="12">One-page professional website for María Fornet Centro de Estética in</text>
+    <text x="32" y="610" fill="#8b949e" font-family="monospace" font-size="12">Dos Hermanas. Full service catalogue, WhatsApp booking, Google reviews,</text>
+    <text x="32" y="628" fill="#8b949e" font-family="monospace" font-size="12">photo carousel, splash screen and scroll animations. Fully responsive.</text>
+    <rect x="32" y="646" width="86" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="75" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">Angular 17</text>
+    <rect x="126" y="646" width="84" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="168" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">TypeScript</text>
+    <rect x="218" y="646" width="40" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="238" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">HTML</text>
+    <rect x="266" y="646" width="36" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="284" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">CSS</text>
+    <rect x="310" y="646" width="88" height="20" rx="10" fill="#1a0a05" stroke="#F85D3B" stroke-width="1"/>
+    <text x="354" y="660" text-anchor="middle" fill="#F85D3B" font-family="monospace" font-size="11">Tailwind CSS</text>
+    <rect x="32" y="674" width="40" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="52" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">GSAP</text>
+    <rect x="80" y="674" width="70" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="115" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Swiper.js</text>
+    <rect x="158" y="674" width="64" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="190" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Node.js</text>
+    <rect x="230" y="674" width="60" height="20" rx="10" fill="#1a0810" stroke="#E040A0" stroke-width="1"/>
+    <text x="260" y="688" text-anchor="middle" fill="#E040A0" font-family="monospace" font-size="11">Express</text>
+    <rect x="298" y="674" width="66" height="20" rx="10" fill="#110a1a" stroke="#A855F7" stroke-width="1"/>
+    <text x="331" y="688" text-anchor="middle" fill="#A855F7" font-family="monospace" font-size="11">Supabase</text>
+    <rect x="32" y="702" width="56" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="60" y="716" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Vercel</text>
+    <rect x="96" y="702" width="52" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="122" y="716" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Render</text>
+    <rect x="156" y="702" width="76" height="20" rx="10" fill="#0a0714" stroke="#7C3AED" stroke-width="1"/>
+    <text x="194" y="716" text-anchor="middle" fill="#7C3AED" font-family="monospace" font-size="11">Namecheap</text>
 </svg>
