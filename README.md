@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=FranBonillaa&theme=github-dark-blue&ring=F85D3B&fire=F85D3B&currStreakLabel=F85D3B&border=21262d)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=FranBonillaa&theme=github-dark-blue&ring=F85D3B&fire=F85D3B&currStreakLabel=F85D3B&border=21262d)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FranBonillaa&color=F85D3B&style=for-the-badge&label=PROFILE+VIEWS)
 
